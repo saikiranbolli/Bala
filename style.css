@@ -1,0 +1,64 @@
+body {
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    min-height: 100vh;
+}
+#sakura {
+    padding:0;
+    margin:0;
+}
+.main_love_section{
+    position: fixed;
+    text-align: center;
+}
+span.typed-cursor{
+    display: none;
+}
+.name_Section{
+    position: fixed;
+    top: 40%;
+    left: 35%;
+}
+.text,.text_2{
+    border-right: 2px solid rgb(221, 221, 221);
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    background: -webkit-linear-gradient(#ffffff, #d24343);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.heartbeat-1{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
+.heartbeat-1 div{
+    display: flex;
+    align-items: center;
+}
+
+.heartbeat-1 svg {
+    height: 36px;
+    fill: none;
+    stroke: red;
+    stroke-width: 15; 
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+    animation: heartbeat-1 3s ease infinite;    
+}
+@keyframes heartbeat-1 {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+.know_more{
+    text-decoration: none;
+    color: #fff1f1;
+    margin: 80px 80px 0px 150px;
+    font-weight: 500;
+}
+
+
+  
