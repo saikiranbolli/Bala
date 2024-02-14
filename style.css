@@ -25,7 +25,7 @@ span.typed-cursor{
     font-size: 25px;
     font-weight: 600;
     font-family: sans-serif;
-    background: -webkit-linear-gradient(#000, #d24343);
+    background: -webkit-linear-gradient(#d38787, #d24343);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
