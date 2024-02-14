@@ -20,12 +20,12 @@ span.typed-cursor{
     top: 40%;
     left: 30%;
 }
-.text,.text_2{
+.text{
     border-right: 2px solid rgb(221, 221, 221);
     font-size: 25px;
     font-weight: 600;
     font-family: sans-serif;
-    background: -webkit-linear-gradient(#ffffff, #d24343);
+    background: -webkit-linear-gradient(#000, #d24343);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
