@@ -18,7 +18,7 @@ span.typed-cursor{
 .name_Section{
     position: fixed;
     top: 40%;
-    left: 35%;
+    left: 30%;
 }
 .text,.text_2{
     border-right: 2px solid rgb(221, 221, 221);
@@ -31,8 +31,8 @@ span.typed-cursor{
 }
 .heartbeat-1{
     position: absolute;
-    top: 50%;
-    left: 45%;
+    top: 45%;
+    left: 40%;
 }
 .heartbeat-1 div{
     display: flex;
@@ -56,7 +56,7 @@ span.typed-cursor{
 .know_more{
     text-decoration: none;
     color: #fff1f1;
-    margin: 80px 80px 0px 150px;
+    margin: 80px 80px 0px 100px;
     font-weight: 500;
 }
 
