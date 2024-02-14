@@ -36,15 +36,16 @@ span.typed-cursor{
 }
 @media screen and (max-width: 600px) {
     .name_Section{
-    top: 30%;
-    left: 30%;
+    top: 25%;
+    left: 10%;
 }
     .heartbeat-1{
         position: absolute;
-        top: 40%;
+        top: 35%;
+        left:25%
     }
     .know_more{
-    margin: 80px 80px 0px 20px;
+    margin: 80px 80px 0px 10px;
 }
 }
 .heartbeat-1 div{
