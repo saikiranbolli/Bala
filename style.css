@@ -45,7 +45,7 @@ span.typed-cursor{
         left:25%
     }
     .know_more{
-    margin: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px !important;
 }
 }
 .heartbeat-1 div{
